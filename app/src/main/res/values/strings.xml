@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Download Image</string>
+    <string name="image_description">Image from the internet.</string>
+    <string name="button_text">Button</string>
+    <string name="image_url"><![CDATA[https://sun9–41.userapi.com/impf/-inr7phwfPe6tI1EKe25_qPXvXYpwq2qEOrBjg/5EXEzTcjC7Y.jpg?size=1294x964&quality=96&proxy=1&sign=15299b7ed4313f87f2d79e6f4c8b905d&type=album>]]></string>
 </resources>
